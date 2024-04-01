@@ -1,6 +1,23 @@
 [
   
   {
+    "title": "汇编语言笔记",
+    "url": "/posts/%E6%B1%87%E7%BC%96%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/",
+    "categories": "Blogging, Tutorial",
+    "tags": "writing",
+    "date": "2024-04-01 09:44:00 +0800",
+    
+
+
+
+
+
+    
+    "snippet": "汇编学习笔记  汇编使用习惯是后缀标识，如89D8H.",
+    "content": "汇编学习笔记  汇编使用习惯是后缀标识，如89D8H."
+  },
+  
+  {
     "title": "ViewPager2",
     "url": "/posts/ViewPager2%E5%AD%A6%E4%B9%A0/",
     "categories": "Blogging, Android",
