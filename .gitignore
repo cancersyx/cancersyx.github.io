@@ -1,7 +1,6 @@
 # Bundler cache
 .bundle
-vendor
-Gemfile.lock
+
 
 # Jekyll cache
 .jekyll-cache
@@ -11,11 +10,11 @@ Gemfile.lock
 *.gem
 
 # NPM dependencies
-node_modules
-package-lock.json
+
+
 
 # IDE configurations
 .idea
 
 # Misc
-assets/js/dist
+
