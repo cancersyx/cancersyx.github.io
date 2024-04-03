@@ -87,7 +87,7 @@ theme_mode: # [light | dark]
 #
 # e.g. 'https://cdn.com'
 #img_cdn: "https://chirpy-img.netlify.app"
-img_cdn: "https://www.sfwind.cn/assets"
+img_cdn: "https://www.sfwind.cn/assets/img"
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "/assets/img/favicons/avatar.png"
