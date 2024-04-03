@@ -1,6 +1,6 @@
 const swconf = {
   
-    cacheName: 'chirpy-1712131039',resources: [
+    cacheName: 'chirpy-1712133381',resources: [
       '/assets/css/jekyll-theme-chirpy.css',
       '/',
       
@@ -16,8 +16,6 @@ const swconf = {
       
       
     ],allowHosts: [
-      
-        'www.sfwind.cn',
       
           'fonts.googleapis.com',
           'fonts.gstatic.com',
