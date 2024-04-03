@@ -1,6 +1,40 @@
 [
   
   {
+    "title": "Android各个版本特性",
+    "url": "/posts/Android%E5%90%84%E4%B8%AA%E7%89%88%E6%9C%AC%E7%89%B9%E6%80%A7/",
+    "categories": "Blogging, Android",
+    "tags": "Android",
+    "date": "2024-04-02 18:53:00 +0800",
+    
+
+
+
+
+
+    
+    "snippet": "Android各个版本特性  介绍Android 5.0以上各个版本特性。01.Android 5.X版本新特性02.Android 6.X版本新特性03.Android 7.X版本新特性04.Android 8.X版本新特性",
+    "content": "Android各个版本特性  介绍Android 5.0以上各个版本特性。01.Android 5.X版本新特性02.Android 6.X版本新特性03.Android 7.X版本新特性04.Android 8.X版本新特性"
+  },
+  
+  {
+    "title": "汇编语言笔记",
+    "url": "/posts/%E6%B1%87%E7%BC%96%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/",
+    "categories": "Blogging, Tutorial",
+    "tags": "writing",
+    "date": "2024-04-01 09:44:00 +0800",
+    
+
+
+
+
+
+    
+    "snippet": "汇编学习笔记  汇编使用习惯是后缀标识，如89D8H.",
+    "content": "汇编学习笔记  汇编使用习惯是后缀标识，如89D8H."
+  },
+  
+  {
     "title": "ViewPager2",
     "url": "/posts/ViewPager2%E5%AD%A6%E4%B9%A0/",
     "categories": "Blogging, Android",
