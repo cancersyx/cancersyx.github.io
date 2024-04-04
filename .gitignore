@@ -1,0 +1,19 @@
+# Bundler cache
+.bundle
+
+
+# Jekyll cache
+.jekyll-cache
+
+
+# RubyGems
+*.gem
+
+# NPM dependencies
+
+
+# IDE configurations
+.idea
+
+# Misc
+
