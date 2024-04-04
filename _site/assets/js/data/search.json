@@ -1,6 +1,23 @@
 [
   
   {
+    "title": "Groovy学习01",
+    "url": "/posts/Groovy%E5%AD%A6%E4%B9%A001/",
+    "categories": "Blogging, Groovy",
+    "tags": "writing",
+    "date": "2024-04-04 11:21:00 +0800",
+    
+
+
+
+
+
+    
+    "snippet": "1. Groovy简介2. Groovy运行3. Groovy数据类型",
+    "content": "1. Groovy简介2. Groovy运行3. Groovy数据类型"
+  },
+  
+  {
     "title": "Android各个版本特性",
     "url": "/posts/Android%E5%90%84%E4%B8%AA%E7%89%88%E6%9C%AC%E7%89%B9%E6%80%A7/",
     "categories": "Blogging, Android",
